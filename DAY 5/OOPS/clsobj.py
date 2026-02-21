@@ -61,3 +61,11 @@ s1=STD("NRJ","Python")
 s1.into()
 s1.show()
 STD.add(5,3)
+
+#types of method
+# 1. Instance method: A method that operates on an instance of the class and has access to the instance's attributes and other methods. It is defined without any decorators and takes 'self' as the first parameter.
+# 2. Class method: A method that operates on the class itself and is defined using the @classmethod decorator.
+# 3. Static method: A method that does not operate on an instance or the class and is defined using the @staticmethod decorator. It does not take 'self' or 'cls' as a parameter.
+
+
+

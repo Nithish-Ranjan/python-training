@@ -13,3 +13,5 @@ for i in range(3):
     price=int(input("Enter price of bag: "))
     b1=bag(zips,color,price)
     b1.show()
+    
+    
