@@ -23,5 +23,5 @@
 # res=list(zip(names,marks))
 # print(res)
 
-l = map(int(input("enter the nos:").split()))
+l = list(map(int,input("enter the nos:").split()))
 print(l)
