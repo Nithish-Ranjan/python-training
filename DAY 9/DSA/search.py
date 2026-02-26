@@ -1,4 +1,5 @@
 # Searching an element 
+# Binary Search
 
 arr = []
 n = int(input("enter the size:"))
