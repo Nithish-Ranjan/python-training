@@ -1,6 +1,7 @@
 # Searching an element 
 # Binary Search
 
+
 arr = []
 n = int(input("enter the size:"))
 for i in range(n):
@@ -23,6 +24,6 @@ while left <= right:
         right = mid-1
         
 if flag == 1:
-    print("element found")
+    print("element found!")
 else:
-    print("element not found")
+    print("element not found!")
