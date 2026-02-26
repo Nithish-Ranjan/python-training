@@ -15,3 +15,8 @@ i = len(l)-1
 while i>=0:
     print(l[i])
     i = i-1
+    
+#4
+#3
+#2
+#1
