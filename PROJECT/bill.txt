@@ -1,0 +1,4 @@
+ID   Name      Price   Qty   Total
+101  Mouse  320  5  1600
+110  RAM  3000  7  21000
+Grand Total: 22600
