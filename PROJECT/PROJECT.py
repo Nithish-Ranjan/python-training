@@ -20,7 +20,6 @@ if t == True:
     print("1. COD")
     print("2. UPI")
     print("3. CARD")
-
     pm = int(input("Enter choice: "))
     def payment():
         if pm == 1:
@@ -59,7 +58,5 @@ if t == True:
         print("Payment Failed. Exiting Program.")
         exit()
 
-    with open("cart.txt", "w") as c:
-        pass
 else:
     print("Invalid login!!!!")
