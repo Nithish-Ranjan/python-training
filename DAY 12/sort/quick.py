@@ -13,7 +13,7 @@ def partition(arr,low,high):
         if left < right:
             arr[left],arr[right] = arr[right],arr[left]
         arr[low],arr[right] = arr[right],arr[low]
-        
+            
     return right
 
 def quicksort(arr,low,high):
